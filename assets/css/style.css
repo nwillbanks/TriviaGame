@@ -1,0 +1,17 @@
+.boxes {
+  display: none;
+  z-index: 1;
+  color: brown;
+}
+div#start {
+  display: block;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: brown;
+}
